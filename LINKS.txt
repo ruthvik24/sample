@@ -1,0 +1,20 @@
+
+https://github.com/nairuzabulhul/.CodeBits
+
+https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+
+
+https://techlacarte.com/how-to-get-chegg-answers-for-free/
+
+https://www.icicibank.com/online-services/scan-to-pay/cards-payment.page?#toptitle
+
+https://tour.golang.org/list
+
+
+SET CLASSPATH=C:\Users\Ruthvik\Downloads\mysql-connector-java-8.0.22\mysql-connector-java-8.0.22.jar;.
+
+DBMS:
+https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo
+
+OS:
+https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
